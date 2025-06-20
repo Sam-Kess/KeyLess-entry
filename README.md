@@ -12,7 +12,9 @@ An ESP32 is continueously looking for that pattern, once we do the right pattern
 ![alt text](KeyLess-Entry_Apartment_Door_Mech.png)
 
 
-I designed a manual latch opener (Check the CAD files)
+
+I designed a automatic door latch opener (Check the CAD files). You latch should look like [this](https://github.com/user-attachments/assets/1c7db39d-d5bf-440c-9e52-779d17a7e265) to work.
+
 Use these parts:
 - Bearings https://a.co/d/dRyna11
 - Motors https://a.co/d/atU4r7z
