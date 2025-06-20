@@ -17,5 +17,5 @@ Use these parts:
 - Bearings https://a.co/d/dRyna11
 - Motors https://a.co/d/atU4r7z
 
-I'm planning to use touch based door knob tapping as an unlock trigger and BLE for authentication.
+I'm planning to use (touch based) door knob tap as an unlock trigger and BLE for authentication to finally unlock my apartment door.
 
